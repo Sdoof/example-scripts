@@ -22,7 +22,7 @@ halo==0.0.31
     # via -r requirements.in
 idna==3.3
     # via requests
-joblib==1.1.0
+joblib==1.4.2
     # via scikit-learn
 kiwisolver==1.4.0
     # via matplotlib
@@ -70,7 +70,7 @@ requests==2.27.1
     # via
     #   -r requirements.in
     #   numerapi
-scikit-learn==1.0.2
+scikit-learn==1.5.1
     # via
     #   -r requirements.in
     #   lightgbm
